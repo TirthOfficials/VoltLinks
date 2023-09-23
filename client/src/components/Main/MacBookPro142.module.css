@@ -1,0 +1,339 @@
+.oculusChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, #535353, #929292);
+    box-shadow: 0 30px 4px rgba(0, 0, 0, 0.8);
+    width: 1600px;
+    height: 1200px;
+    display: none;
+  }
+  .oculusItem {
+    top: -119.76px;
+    left: -160.11px;
+    border-radius: 50%;
+    background-color: rgba(251, 121, 67, 0.1);
+    width: 519.35px;
+    height: 519.35px;
+  }
+  .oculusInner,
+  .oculusItem,
+  .rectangleIcon {
+    position: absolute;
+    display: none;
+  }
+  .oculusInner {
+    top: 840.78px;
+    left: 1117.19px;
+    border-radius: 50%;
+    background-color: rgba(191, 253, 68, 0.2);
+    filter: blur(4px);
+    width: 519.35px;
+    height: 519.35px;
+  }
+  .rectangleIcon {
+    top: 0;
+    left: 0;
+    width: 1600px;
+    height: 1200px;
+    object-fit: cover;
+  }
+  .frameChild {
+    position: absolute;
+    top: 0;
+    left: 4px;
+    width: 1608px;
+    height: 1156px;
+  }
+  .voltlinks {
+    position: absolute;
+    top: 130px;
+    left: 39px;
+    font-size: 225px;
+    text-transform: uppercase;
+    font-family: var(--font-monoton);
+    color: var(--color-greenyellow-100);
+  }
+  .frameItem {
+    position: absolute;
+    top: 242px;
+    left: 439px;
+    width: 661.22px;
+    height: 992.07px;
+  }
+  .ellipseIcon,
+  .frameInner {
+    position: absolute;
+    top: 427.01px;
+    left: 4px;
+    width: 980.62px;
+    height: 694.99px;
+  }
+  .ellipseIcon {
+    top: 297.17px;
+    left: 800.32px;
+    width: 782.68px;
+    height: 824.83px;
+  }
+  .frameChild1,
+  .frameChild2 {
+    position: absolute;
+    top: 0;
+    left: 4px;
+    width: 725.33px;
+    height: 704.65px;
+  }
+  .frameChild2 {
+    top: 31.1px;
+    left: 388.91px;
+    width: 97.35px;
+    height: 17.64px;
+    display: none;
+  }
+  .frameChild3,
+  .frameChild4,
+  .rectangleDiv {
+    position: absolute;
+    top: 155.84px;
+    left: 123px;
+    border-radius: var(--br-283xl);
+    width: 1193.7px;
+    height: 482.34px;
+  }
+  .frameChild3,
+  .frameChild4 {
+    top: 108px;
+    left: 57px;
+    width: 1325.91px;
+    height: 592.66px;
+  }
+  .frameChild4 {
+    top: 202.92px;
+    left: 187px;
+    width: 1066.19px;
+    height: 368.18px;
+  }
+  .home {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: var(--color-greenyellow-100);
+  }
+  .about,
+  .buy,
+  .sell,
+  .signInup {
+    position: absolute;
+    top: 0;
+    left: 109.37px;
+    font-weight: 300;
+  }
+  .about,
+  .buy,
+  .signInup {
+    left: 194px;
+  }
+  .about,
+  .signInup {
+    left: 280px;
+  }
+  .about {
+    top: 2px;
+    left: 426px;
+  }
+  .groupWrapper,
+  .homeParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 476px;
+    height: 23px;
+  }
+  .groupWrapper {
+    top: 52px;
+    left: 441px;
+    font-size: var(--font-size-lg);
+  }
+  .groupIcon {
+    position: absolute;
+    top: 40px;
+    left: 1413px;
+    width: 48px;
+    height: 48px;
+  }
+  .wwwnickelfoxcom {
+    position: absolute;
+    top: -51.03px;
+    left: 1166.37px;
+    font-size: var(--font-size-11xl);
+    text-align: right;
+    display: none;
+  }
+  .frameChild5 {
+    position: absolute;
+    top: 813.71px;
+    left: 4px;
+    width: 1579px;
+    height: 308.29px;
+  }
+  .frameChild6,
+  .frameChild7 {
+    position: absolute;
+    top: 894.02px;
+    left: 870.47px;
+    border-radius: var(--br-xs);
+    background: linear-gradient(174deg, #bffd44, #ffff26);
+    width: 290.49px;
+    height: 188.58px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .frameChild7 {
+    left: 450.99px;
+  }
+  .p {
+    margin: 0;
+  }
+  .people1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  .people,
+  .seeTheFutureContainer {
+    position: absolute;
+    top: 948.08px;
+    left: 1045.75px;
+    display: inline-block;
+    width: 165.97px;
+    height: 82.89px;
+  }
+  .seeTheFutureContainer {
+    top: 862.67px;
+    left: 1224.97px;
+    font-size: 60px;
+    width: 297.01px;
+    height: 124.34px;
+  }
+  .frameChild8 {
+    position: absolute;
+    top: 948.44px;
+    left: 982.92px;
+    border-radius: var(--br-3xs);
+    backdrop-filter: blur(15.9px);
+    border: 1.3px solid var(--color-white);
+    box-sizing: border-box;
+    width: 63.35px;
+    height: 86.34px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .frameChild9,
+  .vectorIcon {
+    position: absolute;
+    top: 973.34px;
+    left: 943.91px;
+    width: 14.67px;
+    height: 36.54px;
+  }
+  .frameChild9 {
+    top: 948.44px;
+    left: 45.39px;
+    border-radius: var(--br-3xs);
+    backdrop-filter: blur(15.9px);
+    border: 1.3px solid var(--color-white);
+    box-sizing: border-box;
+    width: 63.35px;
+    height: 86.34px;
+  }
+  .frameChild10 {
+    position: absolute;
+    top: 973.34px;
+    left: 69.73px;
+    width: 14.67px;
+    height: 36.54px;
+  }
+  .buy1,
+  .sell1 {
+    position: absolute;
+    top: 911px;
+    font-size: var(--font-size-81xl);
+    font-family: var(--font-monomaniac-one);
+    color: var(--color-black);
+    display: inline-block;
+  }
+  .sell1 {
+    left: 215px;
+    width: 276px;
+    height: 81px;
+  }
+  .buy1 {
+    left: calc(50% - 151.5px);
+    width: 188px;
+    height: 126px;
+  }
+  .logoIcon,
+  .output3181710350RemovebgPrIcon,
+  .output3181710350RemovebgPrIcon1 {
+    position: absolute;
+    top: 451px;
+    left: 820px;
+    width: 384.49px;
+    height: 377.4px;
+    object-fit: cover;
+  }
+  .logoIcon,
+  .output3181710350RemovebgPrIcon1 {
+    top: 444px;
+    left: 319px;
+  }
+  .logoIcon {
+    top: 0;
+    left: 25px;
+    width: 166px;
+    height: 178px;
+  }
+  .voltlinks1 {
+    position: absolute;
+    top: 27px;
+    left: 191px;
+    font-family: var(--font-monomaniac-one);
+    color: var(--color-greenyellow-100);
+    display: inline-block;
+    width: 238px;
+    height: 118px;
+  }
+  .vectorParent {
+    position: absolute;
+    top: 78px;
+    left: 80px;
+    width: 1583px;
+    height: 1156px;
+    overflow: hidden;
+  }
+  .wwwnickelfoxcom1 {
+    position: absolute;
+    top: 20px;
+    left: 1246px;
+    font-size: var(--font-size-11xl);
+    text-align: right;
+  }
+  .oculus {
+    position: absolute;
+    top: -75px;
+    left: -84px;
+    background: linear-gradient(180deg, #848484, rgba(240, 240, 240, 0));
+    width: 1834px;
+    height: 1200px;
+    overflow: hidden;
+  }
+  .macbookPro142 {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.86);
+    width: 100%;
+    height: 1159px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-21xl);
+    color: var(--color-white);
+    font-family: var(--font-chivo);
+  }
