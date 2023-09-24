@@ -1,4 +1,4 @@
 /client/node_modules
-
+/server/google-cloud-sdk
 /server/node_modules
 /server/.env
