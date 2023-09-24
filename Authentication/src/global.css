@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Monoton:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chivo:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monomaniac+One:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-monomaniac-one: "Monomaniac One";
+  --font-chivo: Chivo;
+  --font-monoton: Monoton;
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-81xl: 100px;
+  --font-size-lg: 18px;
+  --font-size-36xl: 55px;
+  --font-size-156xl: 175px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-gray-100: rgba(0, 0, 0, 0.86);
+  --color-gainsboro-100: rgba(217, 217, 217, 0.3);
+  --color-gainsboro-200: rgba(217, 217, 217, 0);
+  --color-greenyellow-100: #bffd44;
+  --color-greenyellow-200: rgba(191, 253, 68, 0.2);
+  --color-white: #fff;
+  --color-black: #000;
+  --color-coral: rgba(251, 121, 67, 0.1);
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-xs: 12px;
+  --br-283xl: 302px;
+  --br-31xl: 50px;
+  --br-xl: 20px;
+}

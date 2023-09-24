@@ -1,0 +1,269 @@
+.abstractDesignChild {
+  position: absolute;
+  top: 119.76px;
+  left: 170.02px;
+  background: linear-gradient(180deg, #535353, #929292);
+  box-shadow: 0 30px 4px rgba(0, 0, 0, 0.8);
+  width: 1600px;
+  height: 1200px;
+}
+.abstractDesignInner,
+.abstractDesignItem {
+  position: absolute;
+  top: 0;
+  left: 9.92px;
+  border-radius: 50%;
+  background-color: var(--color-coral);
+  width: 519.35px;
+  height: 519.35px;
+}
+.abstractDesignInner {
+  top: 960.54px;
+  left: 1287.22px;
+  background-color: var(--color-greenyellow-200);
+  filter: blur(4px);
+}
+.abstractDesignChild1,
+.rectangleIcon {
+  position: absolute;
+  top: 197.76px;
+  left: 254.02px;
+}
+.rectangleIcon {
+  width: 1600px;
+  height: 1200px;
+  object-fit: cover;
+}
+.abstractDesignChild1 {
+  width: 1581px;
+  height: 1166px;
+}
+.sell {
+  position: absolute;
+  top: 285.76px;
+  left: 743.02px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 486px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 624.77px;
+  left: 254.02px;
+  width: 980.62px;
+  height: 694.99px;
+}
+.abstractDesignChild2 {
+  position: absolute;
+  top: 1276.53px;
+  left: 1260.32px;
+  width: 519.35px;
+  height: 259.68px;
+}
+.abstractDesignChild3 {
+  position: absolute;
+  top: 197.76px;
+  left: 254.02px;
+  width: 725.33px;
+  height: 704.65px;
+}
+.abstractDesignChild4 {
+  position: absolute;
+  top: 31.1px;
+  left: 388.91px;
+  width: 97.35px;
+  height: 17.64px;
+  display: none;
+}
+.abstractDesignChild5,
+.abstractDesignChild6,
+.rectangleDiv {
+  position: absolute;
+  top: 353.6px;
+  left: 373.02px;
+  border-radius: var(--br-283xl);
+  width: 1193.7px;
+  height: 482.34px;
+}
+.abstractDesignChild5,
+.abstractDesignChild6 {
+  top: 305.76px;
+  left: 307.02px;
+  width: 1325.91px;
+  height: 592.66px;
+}
+.abstractDesignChild6 {
+  top: 400.68px;
+  left: 437.02px;
+  width: 1066.19px;
+  height: 368.18px;
+}
+.companyLogoIcon {
+  position: absolute;
+  top: 197.76px;
+  left: 275.02px;
+  width: 339px;
+  height: 356px;
+  object-fit: cover;
+}
+.companyName {
+  position: absolute;
+  top: 224.76px;
+  left: 441.02px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-monomaniac-one);
+  display: inline-block;
+  width: 238px;
+  height: 118px;
+}
+.abstractDesign,
+.abstractDesignChild7 {
+  position: absolute;
+  top: 294px;
+  left: 1043px;
+  width: 370px;
+  height: 359px;
+}
+.abstractDesign {
+  top: 0;
+  left: 0;
+  width: 1831.02px;
+  height: 1479.89px;
+}
+.home {
+  left: 0;
+  font-weight: 300;
+}
+.about,
+.buy,
+.home,
+.sell1 {
+  position: absolute;
+  top: 0;
+}
+.sell1 {
+  left: 109.37px;
+  color: var(--color-greenyellow-100);
+}
+.about,
+.buy {
+  left: 194px;
+  font-weight: 300;
+}
+.about {
+  left: 286px;
+}
+.menuTopBanner {
+  position: absolute;
+  top: 249.76px;
+  left: 691.02px;
+  width: 336px;
+  height: 21px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-chivo);
+}
+.sellPage1 {
+  position: absolute;
+  top: -197.76px;
+  left: -250.02px;
+  width: 1831.02px;
+  height: 1479.89px;
+}
+.dalle2023092317361 {
+  position: absolute;
+  top: 820px;
+  left: 1268.43px;
+  width: 97px;
+  height: 156px;
+  transform: rotate(0.16deg);
+  transform-origin: 0 0;
+}
+.yourListingHas {
+  position: absolute;
+  top: 353px;
+  left: 310px;
+  font-size: var(--font-size-36xl);
+  font-family: var(--font-chivo);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 804px;
+  height: 373px;
+}
+.sellPageChild,
+.sellPageInner,
+.sellPageItem {
+  position: absolute;
+  top: 52px;
+  left: 439px;
+  background-color: var(--color-gainsboro-200);
+  width: 54px;
+  height: 21px;
+  cursor: pointer;
+}
+.sellPageInner,
+.sellPageItem {
+  top: 56px;
+  left: 631px;
+  width: 36px;
+  height: 17px;
+}
+.sellPageInner {
+  top: 55px;
+  left: 723px;
+  width: 56px;
+  height: 18px;
+}
+.ellipseDiv,
+.userProfileIcon {
+  position: absolute;
+  top: 31px;
+  left: 1413px;
+  width: 48px;
+  height: 48px;
+}
+.ellipseDiv {
+  top: 27px;
+  left: 1410px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 51px;
+  height: 61px;
+  cursor: pointer;
+}
+.untitledDraft4Background {
+  position: absolute;
+  top: 534px;
+  left: 577px;
+  width: 299px;
+  height: 573px;
+  object-fit: cover;
+}
+.oculus,
+.sellPage {
+  position: absolute;
+  top: 78px;
+  left: 80px;
+  width: 1557px;
+  height: 1147px;
+  overflow: hidden;
+}
+.oculus {
+  top: -75px;
+  left: -84px;
+  background: linear-gradient(180deg, #848484, rgba(240, 240, 240, 0));
+  width: 1878px;
+  height: 1225px;
+}
+.sellConfirmPage {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1125px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-156xl);
+  color: var(--color-greenyellow-100);
+  font-family: var(--font-monoton);
+}
