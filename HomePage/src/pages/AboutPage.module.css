@@ -1,0 +1,213 @@
+.abstractDesignChild {
+  position: absolute;
+  top: 119.76px;
+  left: 170.02px;
+  background: linear-gradient(180deg, #535353, #929292);
+  box-shadow: 0 30px 4px rgba(0, 0, 0, 0.8);
+  width: 1600px;
+  height: 1200px;
+}
+.abstractDesignInner,
+.abstractDesignItem {
+  position: absolute;
+  top: 0;
+  left: 9.92px;
+  border-radius: 50%;
+  background-color: var(--color-coral);
+  width: 519.35px;
+  height: 519.35px;
+}
+.abstractDesignInner {
+  top: 960.54px;
+  left: 1287.22px;
+  background-color: var(--color-greenyellow-200);
+  filter: blur(4px);
+}
+.abstractDesignChild1,
+.rectangleIcon {
+  position: absolute;
+  top: 197.76px;
+  left: 250.02px;
+}
+.rectangleIcon {
+  width: 1600px;
+  height: 1200px;
+  object-fit: cover;
+}
+.abstractDesignChild1 {
+  width: 1581px;
+  height: 1166px;
+}
+.about,
+.ellipseIcon {
+  position: absolute;
+  top: 587.76px;
+  left: 890.02px;
+  width: 917px;
+  height: 757px;
+}
+.about {
+  top: 293.76px;
+  left: 610.02px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 781px;
+  height: 226px;
+}
+.abstractDesignChild2 {
+  position: absolute;
+  top: 624.77px;
+  left: 250.02px;
+  width: 984.62px;
+  height: 719.99px;
+}
+.abstractDesignChild3 {
+  position: absolute;
+  top: 1276.53px;
+  left: 1260.32px;
+  width: 519.35px;
+  height: 259.68px;
+}
+.abstractDesignChild4 {
+  position: absolute;
+  top: 197.76px;
+  left: 250.02px;
+  width: 729.33px;
+  height: 704.65px;
+}
+.abstractDesignChild5 {
+  position: absolute;
+  top: 31.1px;
+  left: 388.91px;
+  width: 97.35px;
+  height: 17.64px;
+  display: none;
+}
+.abstractDesignChild6,
+.abstractDesignChild7,
+.rectangleDiv {
+  position: absolute;
+  top: 353.6px;
+  left: 373.02px;
+  border-radius: var(--br-283xl);
+  width: 1193.7px;
+  height: 482.34px;
+}
+.abstractDesignChild6,
+.abstractDesignChild7 {
+  top: 305.76px;
+  left: 307.02px;
+  width: 1325.91px;
+  height: 592.66px;
+}
+.abstractDesignChild7 {
+  top: 398.76px;
+  left: 445.02px;
+  width: 1066.19px;
+  height: 368.18px;
+}
+.companyLogoIcon {
+  position: absolute;
+  top: 27.76px;
+  left: 275.02px;
+  width: 339px;
+  height: 356px;
+  object-fit: cover;
+}
+.companyName {
+  position: absolute;
+  top: 224.76px;
+  left: 441.02px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-monomaniac-one);
+  display: inline-block;
+  width: 238px;
+  height: 118px;
+}
+.abstractDesign,
+.abstractDesignChild8 {
+  position: absolute;
+  top: 294px;
+  left: 1043px;
+  width: 370px;
+  height: 359px;
+}
+.abstractDesign {
+  top: 0;
+  left: 0;
+  width: 1869.37px;
+  height: 1479.89px;
+}
+.buy,
+.home,
+.sell {
+  position: absolute;
+  text-decoration: none;
+  color: #ffffff;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+}
+.buy,
+.sell {
+  left: 109.37px;
+}
+.buy {
+  left: 194px;
+}
+.about1,
+.menuTopBanner {
+  position: absolute;
+  top: 2px;
+  left: 286px;
+  color: var(--color-greenyellow-100);
+}
+.menuTopBanner {
+  top: 249.76px;
+  left: 691.02px;
+  width: 338px;
+  height: 23px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-chivo);
+}
+.profileIcon,
+.sellPage {
+  position: absolute;
+  top: 237.76px;
+  left: 1715.02px;
+  width: 48px;
+  height: 48px;
+}
+.sellPage {
+  top: -197.76px;
+  left: -250.02px;
+  width: 1869.37px;
+  height: 1479.89px;
+}
+.atVoltlinksOur {
+  margin: 0;
+}
+.atVoltlinksOurContainer {
+  position: absolute;
+  top: 369px;
+  left: 101px;
+  font-size: var(--font-size-21xl);
+  font-weight: 300;
+  font-family: var(--font-chivo);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 1360px;
+  height: 735px;
+}
+.aboutPage {
+  position: relative;
+  width: 100%;
+  height: 1147px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-156xl);
+  color: var(--color-greenyellow-100);
+  font-family: var(--font-monoton);
+}
