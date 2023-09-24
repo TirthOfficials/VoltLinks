@@ -19,7 +19,7 @@ const Login = () => {
 			const { data: res } = await axios.post(url, data);
 			localStorage.setItem("token", res.data);
 			// navigate("./../../pages/MacBookPro142.js");
-			window.location = "http://localhost:3001/";
+			window.location = "http://localhost:3000/";
 		} catch (error) {
 			if (
 				error.response &&
